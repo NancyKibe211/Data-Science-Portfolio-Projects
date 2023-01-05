@@ -9,6 +9,10 @@
 ### Programing languages 
 - python programming 
 - R programing 
-
+### Task 
+- Classification 
+- Regression 
+### Type of data 
+- structured data 
 
 
