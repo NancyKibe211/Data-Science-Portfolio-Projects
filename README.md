@@ -3,7 +3,7 @@
 - Data manipulation and wrangling 
 - Data visualization 
 - Data Analysis 
--Error Analysis 
+- Error Analysis 
 - Communication 
 
 ### Programing languages 
