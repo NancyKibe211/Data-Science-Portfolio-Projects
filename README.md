@@ -7,7 +7,8 @@
 - Communication 
 
 ### Programing languages 
-python programming 
-R programing 
+- python programming 
+- R programing 
+
 
 
